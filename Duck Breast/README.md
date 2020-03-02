@@ -1,3 +1,6 @@
+### Notes
+- Want to try [Chinese Duck Breast recipe](https://recipes.anovaculinary.com/recipe/sous-vide-crispy-chinese-duck-breast)
+
 ### 2020/02/29 First Attempt
 
 - **Temperature:** 135 F
